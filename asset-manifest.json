@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-portfolio2/static/css/main.344c0ad2.css",
+    "main.js": "/react-portfolio2/static/js/main.951ea58a.js",
+    "static/media/Fukuoka1.jpg": "/react-portfolio2/static/media/Fukuoka1.9e3690399b3fdf9d5604.jpg",
+    "static/media/Bochum1.jpg": "/react-portfolio2/static/media/Bochum1.c9539909e06297d03389.jpg",
+    "static/media/Chiangmai1.jpg": "/react-portfolio2/static/media/Chiangmai1.8e78e4b40b445f6aceb8.jpg",
+    "static/media/Nagasaki1.jpg": "/react-portfolio2/static/media/Nagasaki1.7b196ce0cdf84dedf5c1.jpg",
+    "static/media/Bangkok1.jpg": "/react-portfolio2/static/media/Bangkok1.3c2f3220e041fb8dbca7.jpg",
+    "static/media/Aboutimage1.png": "/react-portfolio2/static/media/Aboutimage1.618db095b96e8c10652f.png",
+    "static/media/Heroimage1.jpg": "/react-portfolio2/static/media/Heroimage1.3f66b901b253cb517642.jpg",
+    "static/media/Freiburg1.JPG": "/react-portfolio2/static/media/Freiburg1.512afe6fea821c6ee105.JPG",
+    "static/media/Aboutimage2.png": "/react-portfolio2/static/media/Aboutimage2.71849711c8baca1dba27.png",
+    "static/media/Berlin1.jpg": "/react-portfolio2/static/media/Berlin1.26c876c9516ff765736e.jpg",
+    "static/media/Berlin-t1.jpg": "/react-portfolio2/static/media/Berlin-t1.624d69244922022fd4cd.jpg",
+    "static/media/Bangkok-t1.jpg": "/react-portfolio2/static/media/Bangkok-t1.7794addecdf1cc50759a.jpg",
+    "static/media/Chiangmai-t1.jpg": "/react-portfolio2/static/media/Chiangmai-t1.6da840b6ac66d76379aa.jpg",
+    "static/media/Freiburg-t1.jpg": "/react-portfolio2/static/media/Freiburg-t1.edb0dbd77816b5db5ae3.jpg",
+    "static/media/Freiburg-t2.jpg": "/react-portfolio2/static/media/Freiburg-t2.6246f5e43f0e004928d2.jpg",
+    "static/media/Bochum-t2.jpg": "/react-portfolio2/static/media/Bochum-t2.e0b9598de4eec94beb1d.jpg",
+    "static/media/Nagasaki-t1.jpg": "/react-portfolio2/static/media/Nagasaki-t1.ab14e80b37d9c3e0d8c0.jpg",
+    "static/media/Fukuoka-t1.jpg": "/react-portfolio2/static/media/Fukuoka-t1.f755b4dad96f9f22958d.jpg",
+    "index.html": "/react-portfolio2/index.html",
+    "main.344c0ad2.css.map": "/react-portfolio2/static/css/main.344c0ad2.css.map",
+    "main.951ea58a.js.map": "/react-portfolio2/static/js/main.951ea58a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.344c0ad2.css",
+    "static/js/main.951ea58a.js"
+  ]
+}
